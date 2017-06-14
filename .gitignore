@@ -1,0 +1,8 @@
+# BYTECODE #
+############
+*.pyc 
+
+# IDE FOLDERS #
+###############
+**/.idea/
+**/.ipynb_checkpoints/
