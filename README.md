@@ -1,8 +1,9 @@
 # Functional Sistems Network and It's tests on different random graphs
 
 ## Requirements
-- Python 2.7
+- python 2.7
 - numpy
+- scipy
 - networkx
 - [tqdm](https://pypi.python.org/pypi/tqdm)
 - [gym](https://gym.openai.com/)
